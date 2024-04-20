@@ -1,6 +1,6 @@
 <?php
 
-class Persegi
+class Persegi1
 {
     private $sisi;
     
